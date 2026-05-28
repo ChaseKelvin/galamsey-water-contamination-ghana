@@ -1,0 +1,19 @@
+river_basin,sub_basin,sampling_site,year,season,arsenic_ppb,cadmium_ppb,mercury_ppb,lead_ppb,iron_mg_per_L,copper_ppb,zinc_ppb,turbidity_NTU,pH,source_study
+Pra,Pra Main,Twifo Praso,2018,Wet,0.175,3.206,0.412,335.381,1354.513,45.2,112.4,890.0,6.8,Duncan et al. 2018
+Pra,Pra Main,Twifo Praso,2018,Dry,0.002,7.279,0.198,135.863,1138.551,28.7,89.3,340.0,7.1,Duncan et al. 2018
+Pra,Offin,Dunkwa-on-Offin,2021,Wet,53.407,0.712,0.512,18.732,50.215,67.953,198.4,1620.0,5.9,Boakye et al. 2021
+Pra,Offin,Dunkwa-on-Offin,2021,Dry,28.113,0.489,0.287,12.445,38.76,42.31,145.2,780.0,6.2,Boakye et al. 2021
+Pra,Birim,Kibi,2021,Wet,12.34,0.534,0.389,15.672,42.1,38.45,167.3,1100.0,6.1,Boakye et al. 2021
+Pra,Birim,Kibi,2021,Dry,7.89,0.312,0.201,9.234,31.45,24.67,98.5,420.0,6.5,Boakye et al. 2021
+Ankobra,Ankobra Main,Prestea,2016,Wet,18.45,0.89,2.34,28.56,78.23,55.67,234.5,1450.0,5.7,Awuah 2016
+Ankobra,Ankobra Main,Prestea,2016,Dry,9.78,0.56,1.12,16.34,52.11,33.45,178.9,560.0,6.0,Awuah 2016
+Ankobra,Tano,Bibiani,2016,Wet,22.67,1.12,3.45,34.78,92.34,72.45,289.3,1580.0,5.5,Awuah 2016
+Ankobra,Tano,Bibiani,2016,Dry,11.23,0.72,1.78,19.45,64.56,44.23,201.4,620.0,5.9,Awuah 2016
+Densu,Densu Main,Nsawam,2020,Wet,4.56,0.234,0.189,8.67,22.34,18.45,87.6,340.0,6.8,Duncan 2020
+Densu,Densu Main,Nsawam,2020,Dry,2.23,0.134,0.089,4.34,14.56,10.23,54.3,120.0,7.2,Duncan 2020
+Oda River,Oda,Konongo,2023,Wet,15.67,0.678,0.934,22.45,45.67,38.23,178.9,1280.0,6.0,Nti et al. 2023
+Oda River,Oda,Konongo,2023,Dry,8.34,0.423,0.512,13.23,29.45,22.67,112.4,480.0,6.3,Nti et al. 2023
+Pra,Offin,Obuasi,2023,Wet,45.23,0.89,0.712,24.56,62.34,58.9,212.4,1750.0,5.8,Nti et al. 2023
+Pra,Offin,Obuasi,2023,Dry,24.78,0.567,0.389,14.23,41.23,35.67,145.6,720.0,6.1,Nti et al. 2023
+Ankobra,Ankobra Main,Tarkwa,2023,Wet,28.9,1.34,4.12,42.34,108.45,89.23,312.4,1890.0,5.4,Nti et al. 2023
+Ankobra,Ankobra Main,Tarkwa,2023,Dry,15.67,0.89,2.23,24.56,72.34,56.78,223.5,780.0,5.7,Nti et al. 2023
